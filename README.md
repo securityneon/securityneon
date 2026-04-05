@@ -118,14 +118,13 @@ Focused on:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=securityneon\&show_icons=true\&theme=dark)
 ---
 
 ## 📫 Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/n33r4jkum4r/
+* 📧 Email: ims2012049@gail.com
 
 ---
 
