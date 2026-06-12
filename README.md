@@ -118,7 +118,7 @@ Focused on:
 
 ## 📫 Connect
 
-* 📧 Email: ims2012049@gail.com
+* 📧 Email: scorpioinsecure@gmail.com
 
 ---
 
