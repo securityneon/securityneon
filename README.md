@@ -116,14 +116,8 @@ Focused on:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=securityneon\&show_icons=true\&theme=dark)
----
-
 ## 📫 Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/n33r4jkum4r/
 * 📧 Email: ims2012049@gail.com
 
 ---
